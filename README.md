@@ -2,7 +2,7 @@
 
 > Basic Authentication microservice in Node.js
 
-## 💻 Pré-requisitos
+## 💻 Prerequisites
 
 Before you begin, make sure you have met the following requirements:
 
