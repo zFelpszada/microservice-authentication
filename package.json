@@ -1,0 +1,25 @@
+{
+    "name": "microservice-authentication",
+    "version": "1.0.0",
+    "description": "Authentication microservice in Node.js",
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node src/index.js",
+        "dev": "node --watch src/index.js"
+    },
+    "keywords": [
+        "nodejs",
+        "ms",
+        "auth"
+    ],
+    "author": "zFelpszada",
+    "license": "ISC",
+    "dependencies": {
+        "@prisma/client": "^5.0.0",
+        "bcryptjs": "^2.4.3",
+        "dotenv": "^16.3.1",
+        "express": "^4.18.2",
+        "joi": "^17.9.2"
+    }
+}
